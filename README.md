@@ -1,5 +1,5 @@
 # Harvard CS50
-> Week by week notes and problem set solutions for CS50
----
+Week by week notes and problem set solutions for CS50
 
-<img align="center" src="https://user-images.githubusercontent.com/110672478/213847910-b54f7985-62df-446e-b82f-b161ea88c7dd.png" alt="Harvard University">
+
+<img align="center" src="https://user-images.githubusercontent.com/110672478/213848214-6262674e-9323-434a-bf33-ff4df7830e7c.svg" alt="Harvard University">
