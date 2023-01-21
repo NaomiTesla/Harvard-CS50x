@@ -2,6 +2,4 @@
 #### Week by week notes and problem set solutions for CS50
 
 <br />
-<div style="text-align:center;">
-  <img src="https://user-images.githubusercontent.com/110672478/213848214-6262674e-9323-434a-bf33-ff4df7830e7c.svg" alt="Harvard University">
-</div>
+<img src="https://user-images.githubusercontent.com/110672478/213848420-2ad00be8-f641-4623-b8aa-1830f2b0ea76.png" alt="Harvard University">
